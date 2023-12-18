@@ -94,6 +94,25 @@ ___
     </p>
   </div>
 </div>
+___
+
+
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-iccv-peng.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>EmoTalk: Speech-driven emotional disentanglement for 3D face animation,</strong><br/>
+      Ziqiao Peng, Haoyu Wu, Zhenbo Song, Hao Xu, <strong>Xiangyu Zhu</strong>, Jun He, Hongyan Liu, Zhaoxin Fan<br/>
+      Proceedings of the IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 2023.<br/>
+      [<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Peng_EmoTalk_Speech-Driven_Emotional_Disentanglement_for_3D_Face_Animation_ICCV_2023_paper.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
 
 ___
 
@@ -184,6 +203,42 @@ ___
     </p>
   </div>
 </div>
+___
+
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-mm-zhao.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Cross-Architecture Distillation for Face Recognition,</strong><br/>
+      Weisong Zhao, <strong>Xiangyu Zhu</strong>, Zhixiang He, Xiao-Yu Zhang, Zhen Lei<br/>
+      ACM Multimedia (<strong>ACM MM</strong>), 2023.<br/>
+      [<a href="https://arxiv.org/pdf/2306.14662.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+___
+
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-mm-peng.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces,</strong><br/>
+      Ziqiao Peng, Yihao Luo, Yue Shi, Hao Xu, <strong>Xiangyu Zhu</strong>, Hongyan Liu, Jun He, Zhaoxin Fan<br/>
+      ACM Multimedia (<strong>ACM MM</strong>), 2023.<br/>
+      [<a href="https://arxiv.org/pdf/2306.10799.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+
 
 ___
 
