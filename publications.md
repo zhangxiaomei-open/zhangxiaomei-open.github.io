@@ -46,6 +46,24 @@ ___
 
 <div class="row">
   <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-tifs-zhao.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Masked Face Transformer,</strong><br/>
+      Weisong Zhao, <strong>Xiangyu Zhu</strong>, Kaiwen Guo, Haichao Shi, Xiao-Yu Zhang, and Zhen Lei<br/>
+      IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>), 2023.<br/>
+      [<a href="https://ieeexplore.ieee.org/abstract/document/10273410">PDF</a>]
+    </p>
+  </div>
+</div>
+
+
+___
+
+<div class="row">
+  <div class="column left">
     <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-tip-kao.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
