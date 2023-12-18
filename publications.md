@@ -64,6 +64,24 @@ ___
 
 <div class="row">
   <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-ccbr-yang.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Dynamic Face Expression Generation with Efficient Neural Radiation Field,</strong><br/>
+      Te Yang, <strong>Xiangyu Zhu (corresponding author)</strong>, Zhen Lei <br/>
+      Chinese Conference on Biometric Recognition (<strong>CCBR</strong>), 2023.<br/> ()
+      <strong>Best Paper 1st Runner up</strong>
+    </p>
+  </div>
+</div>
+
+
+___
+
+<div class="row">
+  <div class="column left">
     <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-tip-kao.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
