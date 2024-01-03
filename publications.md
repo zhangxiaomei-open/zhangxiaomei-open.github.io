@@ -238,6 +238,41 @@ ___
   </div>
 </div>
 
+___
+
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-ijcb-zhang.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Modeling Spoof Noise by De-spoofing Diffusion and its Application in Face Anti-spoofing,</strong><br/>
+      Bin Zhang, <strong>Xiangyu Zhu (corresponding author)</strong>, Xiaoyu Zhang, Zhen Lei<br/>
+      IEEE International Joint Conference on Biometrics (<strong>IJCB</strong>), 2023.<br/>
+      [<a href="">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-prcv-zhang.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Spoof-Guided Image Decomposition for Face Anti-spoofing,</strong><br/>
+      Bin Zhang, <strong>Xiangyu Zhu</strong>, Xiaoyu Zhang, Shukai Chen, Peng Li, Zhen Lei <br/>
+      Pattern Recognition and Computer Vision (<strong>PRCV</strong>), 2023. (Oral) <br/>
+      [<a href="https://link.springer.com/chapter/10.1007/978-981-99-8469-5_1">PDF</a>]
+    </p>
+  </div>
+</div>
 
 
 ___
