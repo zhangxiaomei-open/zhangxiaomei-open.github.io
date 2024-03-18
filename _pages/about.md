@@ -289,7 +289,7 @@ Honors & Awards
 ======
 * IEEE Senior Member
 * IAPR Young Biometrics Investigator Award 2023 (**YBIA**) [<a href="https://iapr-tc4.org/awards/">Link</a>]
-* The Champion of WACV 2024 Face Recognition Challenge in the Era of Synthetic Data (FRCSyn).
+* 2024 The Champion of WACV 2024 Face Recognition Challenge in the Era of Synthetic Data (FRCSyn).
 * 2023 CCBR Best Paper 1st Runner Up.
 * 2022 CCBR Best Poster Paper Award.
 * 2022 Baidu Xueshu 2022 Global Top Chinese Young Scholars in AI. （<a href="https://xueshu.baidu.com/usercenter/index/aischolar2022">百度学术2022年全球华人AI青年学者榜单</a>）
