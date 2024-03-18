@@ -17,7 +17,7 @@ ___
   <div class="column right">
     <p>
       <strong>FRCSyn Challenge at WACV 2024: Face Recognition Challenge in the Era of Synthetic Data,</strong><br/>
-      <strong>Winner on the Main Track and Balacned Track,</strong><br/>
+      <strong>Winner on the Main Track and the Balacned Track,</strong><br/>
       Weisong Zhao, <strong>Xiangyu Zhu</strong>, Zheyu Yan, Xiao-Yu Zhang, Jinlin Wu, Zhen Lei<br/>
       IEEE/CVF Winter Conference on Applications of Computer Vision Workshop (<strong>WACV</strong>), 2024.<br/>
       [<a href="https://openaccess.thecvf.com/content/WACV2024W/FRCSyn/papers/Melzi_FRCSyn_Challenge_at_WACV_2024_Face_Recognition_Challenge_in_the_WACVW_2024_paper.pdf/">PDF</a>]
