@@ -5,6 +5,30 @@ permalink: /publications/
 author_profile: true
 ---
 
+2024
+=====
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2024-wacv-zhao.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>FRCSyn Challenge at WACV 2024: Face Recognition Challenge in the Era of Synthetic Data,</strong><br/>
+      <strong>Winner on the Main Track and Balacned Track,</strong><br/>
+      Weisong Zhao, <strong>Xiangyu Zhu</strong>, Zheyu Yan, Xiao-Yu Zhang, Jinlin Wu, Zhen Lei<br/>
+      IEEE/CVF Winter Conference on Applications of Computer Vision Workshop (<strong>WACV</strong>), 2024.<br/>
+      [<a href="https://openaccess.thecvf.com/content/WACV2024W/FRCSyn/papers/Melzi_FRCSyn_Challenge_at_WACV_2024_Face_Recognition_Challenge_in_the_WACVW_2024_paper.pdf/">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+
+
 2023
 =====
 ___
