@@ -19,6 +19,7 @@ About me
 
 News!
 ======
+* Mar. 2024: We won the WACV 2024 Face Recognition Challenge in the Era of Synthetic Data (FRCSyn). Congrats to all collaborators!
 * Dec. 2023: We won the Best Paper 1st Runner Up in CCBR 2023. Congrats to YangTe!
 * Oct. 2023: I am awarded the IAPR Young Biometrics Investigator Award (**YBIA**). Thanks IAPR TC4 committee [<a href="https://iapr-tc4.org/awards/">Link</a>]. 
 * Mar. 2023: My paper (first author) is accepted by **TBIOM**, and one paper is accepted by **TIP**. 
@@ -287,7 +288,8 @@ ___
 Honors & Awards
 ======
 * IEEE Senior Member
-* 2023 IAPR Young Biometrics Investigator Award (**YBIA**) [<a href="https://iapr-tc4.org/awards/">Link</a>]
+* IAPR Young Biometrics Investigator Award 2023 (**YBIA**) [<a href="https://iapr-tc4.org/awards/">Link</a>]
+* The Champion of WACV 2024 Face Recognition Challenge in the Era of Synthetic Data (FRCSyn).
 * 2023 CCBR Best Paper 1st Runner Up.
 * 2022 CCBR Best Poster Paper Award.
 * 2022 Baidu Xueshu 2022 Global Top Chinese Young Scholars in AI. （<a href="https://xueshu.baidu.com/usercenter/index/aischolar2022">百度学术2022年全球华人AI青年学者榜单</a>）
