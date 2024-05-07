@@ -71,7 +71,7 @@ ___
     <p>
       <strong>3D Face Reconstruction with the Geometric Guidance of Facial Part Segmentation,</strong><br/>
       Zidu Wang, <strong>Xiangyu Zhu (corresponding author)</strong>, Tianshuo Zhang, Baiqin Wang and Zhen Lei<br/>
-      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR(Highlight)</strong>), 2024.<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), Highlight 2024.<br/>
       [<a href="https://arxiv.org/abs/2312.00311">PDF</a>]
     </p>
   </div>
