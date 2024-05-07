@@ -7,7 +7,43 @@ author_profile: true
 
 2024
 =====
+
 ___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2024-cvpr-wang.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>3D Face Reconstruction with the Geometric Guidance of Facial Part Segmentation,</strong><br/>
+      Zidu Wang, <strong>Xiangyu Zhu (corresponding author)</strong>, Tianshuo Zhang, Baiqin Wang and Zhen Lei<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), Highlight 2024.<br/>
+      [<a href="https://arxiv.org/abs/2312.00311">PDF</a>]
+    </p>
+  </div>
+</div>
+___
+
+
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2024-tmm-xu.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Multi-Level Pixel-Wise Correspondence Learning for 6DoF Face Pose Estimation,</strong><br/>
+      Miao Xu, <strong>Xiangyu Zhu (corresponding author)</strong>, Yueying Kao, Zhiwen Chen, Jiangjing Lyu, Zhen Lei<br/>
+      IEEE Transactions on Multimedia (<strong>TMM</strong>), 2024.<br/>
+      [<a href="https://ieeexplore.ieee.org/abstract/document/10506678/">Paper</a>]
+    </p>
+  </div>
+</div>
+___
+
 
 <div class="row">
   <div class="column left">
