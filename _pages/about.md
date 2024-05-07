@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-About me
+Short Bio
 ======
+I am now an Associate Professor at Institute of Automation Chinese Academic of Sciences (CASIA). My research interest includes machine learning and pattern recognition, especially **3D face reconstruction**, **face recognition**, and **Explainable AI**. I am awarded the “Young Biometrics Investigator Award **(YBIA)**” by the International Association of Pattern Recognition (IAPR) in 2023 (awarded biennially to one scholar under 40 worldwide).
 
-* I am now an Associate Professor at National Laboratory of Pattern Recognition (NLPR), Institute of Automation Chinese Academic of Sciences (CASIA).
-* My research interest includes machine learning and pattern recognition, especially **3D face/body reconstruction**, **face recognition**, and **neural network interpretability**.
-* **Looking for talents working on 3D face/body reconstruction, biometrics, and AI fundamental. If you are interested, please send me an email with your CV.** (欢迎报考研究生的同学联系我。课题组常年招收博士后（北京/香港）和优秀实习生。)
+中国科学院自动化研究所副研究员，从事生物特征识别和可解释AI相关基础理论研究与应用。国际模式识别协会（IAPR）青年学者奖（YBIA）获得者（两年一次，每次从全球范围内评选40岁以下学者一名）。发表文章的Google Scholar总引用次数为8700余次。
 
 <br>
 
@@ -287,8 +286,8 @@ ___
 
 Honors & Awards
 ======
+* IAPR Young Biometrics Investigator Award 2023 (**YBIA**) (Honors a scholar under the age of 40 who has made substantial contributions to the IAPR Biometrics community and whose research has had a major impact in biometrics.) [<a href="https://iapr-tc4.org/awards/">Link</a>]
 * IEEE Senior Member
-* IAPR Young Biometrics Investigator Award 2023 (**YBIA**) [<a href="https://iapr-tc4.org/awards/">Link</a>]
 * 2024 The Champion of WACV 2024 Face Recognition Challenge in the Era of Synthetic Data (FRCSyn).
 * 2023 CCBR Best Paper 1st Runner Up.
 * 2022 CCBR Best Poster Paper Award.
