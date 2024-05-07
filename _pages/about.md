@@ -20,6 +20,8 @@ I am now an Associate Professor at Institute of Automation Chinese Academic of S
 
 News!
 ======
+* Apr. 2024: One paper on 6DoF Face Pose Estimation is accepted by IEEE Transactions on Multimedia (TMM). 
+* Mar. 2024: Our 3DDFAv3 Paper “3D Face Reconstruction with the Geometric Guidance of Facial Part Segmentation” is accepted by CVPR 2024 (Highlight). 
 * Mar. 2024: We won the WACV 2024 Face Recognition Challenge in the Era of Synthetic Data (FRCSyn). Congrats to all collaborators!
 * Dec. 2023: We won the Best Paper 1st Runner Up in CCBR 2023. Congrats to YangTe!
 * Oct. 2023: I am awarded the IAPR Young Biometrics Investigator Award (**YBIA**). Thanks IAPR TC4 committee [<a href="https://iapr-tc4.org/awards/">Link</a>]. 
@@ -58,6 +60,22 @@ Work experience
 Selected Publications
 ======
 
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2024-cvpr-wang.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>3D Face Reconstruction with the Geometric Guidance of Facial Part Segmentation,</strong><br/>
+      Zidu Wang, <strong>Xiangyu Zhu (corresponding author)</strong>, Tianshuo Zhang, Baiqin Wang and Zhen Lei<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR(Highlight)</strong>), 2024.<br/>
+      [<a href="https://arxiv.org/abs/2312.00311">PDF</a>]
+    </p>
+  </div>
+</div>
 
 ___
 
