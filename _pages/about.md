@@ -270,7 +270,7 @@ ___
     <p>
       <strong>Face Alignment Across Large Poses: A 3D Solution,</strong><br/>
       <strong>Xiangyu Zhu</strong>, Zhen Lei, Xiaoming Liu, Hailin Shi, Stan Z. Li.<br/>
-      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), Oral, 2021.<br/> 
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), Oral, 2016.<br/> 
      [<a href="https://xiangyuzhu-open.github.io/homepage/files/ARXIV2015_FaceAlignment.pdf">PDF</a>][<a href="https://xiangyuzhu-open.github.io/homepage/files/xiangyu2017face_sup.pdf">Supplemental Material</a>][<a href="https://github.com/cleardusk/3DDFA">Github</a>][<a href="https://drive.google.com/file/d/0B7OEHD3T4eCkVGs0TkhUWFN6N1k/view?usp=sharing">300W-LP</a>][<a href="https://drive.google.com/file/d/0B7OEHD3T4eCkZXU4Zy1zZVgzUHc/view?usp=sharing&resourcekey=0-h0GyCbYRA67dgDbelEFxhA">AFLW2000-3D</a>]
     </p>
   </div>
