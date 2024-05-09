@@ -10,7 +10,7 @@ redirect_from:
 
 Short Bio
 ======
-I am now an Associate Professor at Institute of Automation Chinese Academic of Sciences (CASIA). My research interest includes machine learning and pattern recognition, especially **3D face reconstruction**, **face recognition**, and **Explainable AI**. I am awarded the “Young Biometrics Investigator Award **(YBIA)**” by the International Association of Pattern Recognition (IAPR) in 2023 (awarded biennially to one scholar under 40 worldwide). I won the Champion of the Face Recognition Challenges at WACV 2024 and ICCV 2017, CCBR Best Student Paper Award (2017), Best Poster Paper Award (2022), and Best Paper 1st Runner Up (2023). He has published more 80 papers with total citation in Google Scholar being 8700. He is a IEEE senior member, served as the area chair for IJCB and ACM MM. 
+I am now an Associate Professor at Institute of Automation Chinese Academic of Sciences (CASIA). My research interest includes machine learning and pattern recognition, especially **3D face reconstruction**, **face recognition**, and **Explainable AI**. I am awarded the “Young Biometrics Investigator Award **(YBIA)**” by the International Association of Pattern Recognition (IAPR) in 2023 (awarded biennially to one scholar under 40 worldwide). I won the Champion of the Face Recognition Challenges at WACV 2024 and ICCV 2017, CCBR Best Student Paper Award (2017), Best Poster Paper Award (2022), and Best Paper 1st Runner Up (2023). I have published more 80 papers with total citation in Google Scholar being 8700. I am an IEEE senior member and serve as the area chair for IJCB and ACM MM. 
 
 
 
@@ -308,6 +308,7 @@ Honors & Awards
 ======
 * IAPR Young Biometrics Investigator Award 2023 (**YBIA**) (Honors a scholar under the age of 40 who has made substantial contributions to the IAPR Biometrics community and whose research has had a major impact in biometrics.) [<a href="https://iapr-tc4.org/awards/">Link</a>]
 * IEEE Senior Member
+* CSIG Senior Member
 * 2024 The Champion of WACV 2024 Face Recognition Challenge in the Era of Synthetic Data (FRCSyn).
 * 2023 CCBR Best Paper 1st Runner Up.
 * 2022 CCBR Best Poster Paper Award.
