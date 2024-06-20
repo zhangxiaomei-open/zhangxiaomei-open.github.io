@@ -72,7 +72,7 @@ ___
       <strong>3D Face Reconstruction with the Geometric Guidance of Facial Part Segmentation,</strong><br/>
       Zidu Wang, <strong>Xiangyu Zhu (corresponding author)</strong>, Tianshuo Zhang, Baiqin Wang and Zhen Lei<br/>
       IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), Highlight 2024.<br/>
-      [<a href="https://arxiv.org/abs/2312.00311">PDF</a>]
+      [<a href="https://arxiv.org/abs/2312.00311">PDF</a>][<a href="https://github.com/wang-zidu/3DDFA-V3">3DDFAv3 Github</a>]
     </p>
   </div>
 </div>
@@ -309,7 +309,6 @@ Honors & Awards
 * IAPR Young Biometrics Investigator Award 2023 (**YBIA**) (Honors a scholar under the age of 40 who has made substantial contributions to the IAPR Biometrics community and whose research has had a major impact in biometrics.) [<a href="https://iapr-tc4.org/awards/">Link</a>]
 * IEEE Senior Member
 * CSIG Senior Member
-* 2024 The Champion of WACV 2024 Face Recognition Challenge in the Era of Synthetic Data (FRCSyn).
 * 2023 CCBR Best Paper 1st Runner Up.
 * 2022 CCBR Best Poster Paper Award.
 * 2022 Baidu Xueshu 2022 Global Top Chinese Young Scholars in AI. （<a href="https://xueshu.baidu.com/usercenter/index/aischolar2022">百度学术2022年全球华人AI青年学者榜单</a>）
@@ -318,10 +317,12 @@ Honors & Awards
 * 2021 Young Elite Scientist Sponsorship Program by Beijing Association for Science and Technology. （北京科协青年人才托举工程） 
 * 2020 Member of the Youth Innovation Promotion Association, Chinese Academy of Sciences. （中国科学院青年创新促进会）
 * 2019 Best Doctoral Dissertation Finalist, China Society of Image and Graphics (CSIG).
-* 2019 The Champion of ICCV19 DeepGlint-Large Track in Light Weight Face Recognition Challenge.
 * 2018 ICME Best Student Paper Award Runner-up.
-* 2017 The Winner of FG2017 facial micro-expression recognition competition.
 * 2017 CCBR Best Student Paper Award.
-* 2017 National scholarship in Chinese Academy of Sciences.
-* 2011 National scholarship in Sichuan University.
 
+<br>
+Competitions
+======
+* 2024 <a href="https://frcsyn.github.io/">Face Recognition Challenge in the Era of Synthetic Data</a> (FRCSyn) at WACV 2024, Rank 1st on two sub-tasks.
+* 2019 The Champion of <a href="https://ibug.doc.ic.ac.uk/resources/lightweight-face-recognition-challenge-workshop/">DeepGlint-Large Track in Light Weight Face Recognition Challenge</a> at ICCV 2019.
+* 2017 The Winner of FG2017 facial micro-expression recognition competition.
