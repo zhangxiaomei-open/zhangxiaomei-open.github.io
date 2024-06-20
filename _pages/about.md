@@ -320,7 +320,7 @@ Honors & Awards
 * 2018 ICME Best Student Paper Award Runner-up.
 * 2017 CCBR Best Student Paper Award.
 
-<br>
+
 Competitions
 ======
 * 2024 <a href="https://frcsyn.github.io/">Face Recognition Challenge in the Era of Synthetic Data</a> (FRCSyn) at WACV 2024, Rank 1st on two sub-tasks.
