@@ -20,11 +20,30 @@ ___
       <strong>3D Face Reconstruction with the Geometric Guidance of Facial Part Segmentation,</strong><br/>
       Zidu Wang, <strong>Xiangyu Zhu (corresponding author)</strong>, Tianshuo Zhang, Baiqin Wang and Zhen Lei<br/>
       IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), Highlight 2024.<br/>
-      [<a href="https://arxiv.org/abs/2312.00311">PDF</a>]
+      [<a href="https://arxiv.org/abs/2312.00311">PDF</a>][<a href="https://github.com/wang-zidu/3DDFA-V3">Github</a>]
     </p>
   </div>
 </div>
 ___
+
+
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2024-cvpr-peng.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis,</strong><br/>
+      Ziqiao Peng, Wentao Hu, Yue Shi, <strong>Xiangyu Zhu</strong>, Xiaomei Zhang, Hao Zhao, Jun He, Hongyan Liu, Zhaoxin Fan<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024.<br/>
+      [<a href="https://arxiv.org/abs/2311.17590">PDF</a>][<a href="https://github.com/ZiqiaoPeng/SyncTalk">Github</a>]
+    </p>
+  </div>
+</div>
+___
+
 
 
 
