@@ -51,20 +51,9 @@ IEEE TRANSACTIONS ON IMAGE PROCESSING, TIP 2022
 ___
 
 
-<div class="row">
-  <div class="column left">
-    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-cvpr-yu.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Graphics Capsule: Learning Hierarchical 3D Face Representations from 2D Images,</strong><br/>
-      Chang Yu, <strong>Xiangyu Zhu (corresponding author)</strong>, Xiaomei Zhang, Zhaoxiang Zhang, Zhen Lei<br/>
-      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023.<br/>
-      [<a href="https://arxiv.org/abs/2303.10896">PDF</a>]
-    </p>
-  </div>
-</div>
+* **Everything2Motion: Synchronizing Diverse Inputs via a Unified Framework for Human Motion Synthesis**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/27936)    
+**Zhaoxin Fan**, Longbin Li, Pengxin Xu, Fan Shen, kai Chen.  
+Thirty-Eighth AAAI Conference on Artificial Intelligence, AAAI 2024
 
 ___
 
