@@ -16,17 +16,17 @@ I am now an Associate Professor at Institute of Automation Chinese Academic of S
 
 Education
 ======
-* Ph.D in Institute of Automation, Chinese Academic of Sciences, 2017, supervised by [Prof. Stan Z. Li](http://www.cbsr.ia.ac.cn/users/szli/)
-* B.S. in College of Computer Science, Sichuan University, 2012
+* Ph.D in Institute of Automation, Chinese Academic of Sciences, 2021
+* B.S. in Department of automation, North China Electric Power University, 2016
 
 <br>
 
 Work experience
 ======
-* 2019～now: Associate Professor
+* 2024～now: Associate Professor
   * National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
 
-* 2017～2019: Assistant Professor
+* 2021～2024: Assistant Professor
   * National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
 
 <br>
@@ -38,20 +38,9 @@ Selected Publications
 
 ___
 
-<div class="row">
-  <div class="column left">
-    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2024-cvpr-wang.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>3D Face Reconstruction with the Geometric Guidance of Facial Part Segmentation,</strong><br/>
-      Zidu Wang, <strong>Xiangyu Zhu (corresponding author)</strong>, Tianshuo Zhang, Baiqin Wang and Zhen Lei<br/>
-      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), Highlight 2024.<br/>
-      [<a href="https://arxiv.org/abs/2312.00311">PDF</a>][<a href="https://github.com/wang-zidu/3DDFA-V3">3DDFAv3 Github</a>]
-    </p>
-  </div>
-</div>
+* **High-Fidelity Clothed Avatar Reconstruction from a Single Image** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liao_High-Fidelity_Clothed_Avatar_Reconstruction_From_a_Single_Image_CVPR_2023_paper.pdf)[[code]](https://github.com/TingtingLiao/CAR)   
+Tingting Liao, **Xiaomei Zhang (equal contribution)**, Yuliang Xiu, Hongwei Yi, Xudong Liu, Guo-Jun Qi, Yong Zhang, Xuan Wang, Xiangyu Zhu, Zhen Lei.
+IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2023
 
 ___
 
