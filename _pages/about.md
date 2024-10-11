@@ -45,14 +45,13 @@ IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2023
 ___
 
 * **Grammar-Induced Wavelet Network for Human Parsing**[[paper]](https://ieeexplore.ieee.org/document/9795988)
-* 
 **Xiaomei Zhang**, Yingying Chen, Ming Tang, Zhen Lei, Jinqiao Wang.
 IEEE TRANSACTIONS ON IMAGE PROCESSING, TIP 2022
 
 ___
 
 
-* **Everything2Motion: Synchronizing Diverse Inputs via a Unified Framework for Human Motion Synthesis**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/27936)    
+* **Grammar-Induced Wavelet Network for Human Parsing**[[paper]](https://ieeexplore.ieee.org/document/9795988)    
 **Zhaoxin Fan**, Longbin Li, Pengxin Xu, Fan Shen, kai Chen.  
 Thirty-Eighth AAAI Conference on Artificial Intelligence, AAAI 2024
 
