@@ -52,9 +52,8 @@ ___
 
 
 * **Grammar-Induced Wavelet Network for Human Parsing**[[paper]](https://ieeexplore.ieee.org/document/9795988)    
-**Zhaoxin Fan**, Longbin Li, Pengxin Xu, Fan Shen, kai Chen.  
-Thirty-Eighth AAAI Conference on Artificial Intelligence, AAAI 2024
-
+**Xiaomei Zhang**, Yingying Chen, Ming Tang, Zhen Lei, Jinqiao Wang.  
+IEEE TRANSACTIONS ON IMAGE PROCESSING, TIP 2022
 ___
 
 
