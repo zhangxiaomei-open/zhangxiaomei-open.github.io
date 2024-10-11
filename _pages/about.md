@@ -95,5 +95,11 @@ Neurocomputing 2020
 
 ___
 
+* **TREE HIERARCHICAL CNNS FOR OBJECT PARSING**[[paper]](https://ieeexplore.ieee.org/document/8451301)    
+**Xiaomei Zhang**, Yingying Chen, Bingke Zhu, Jinqiao Wang, Ming Tang, HanQing Lu.   
+IEEE International Conference on Image Processing, ICIP 2018
+
+___
+
 
 
