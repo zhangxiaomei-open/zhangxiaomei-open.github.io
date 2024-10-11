@@ -29,7 +29,7 @@ ___
 
 
 * **Graphics Capsule: Learning Hierarchical 3D Face Representations from 2D Images**[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Graphics_Capsule_Learning_Hierarchical_3D_Face_Representations_From_2D_Images_CVPR_2023_paper.pdf)    
-Chang Yu, Xiangyu Zhu, **Xiaomei Zhang**, Zhaoxiang Zhang, Zhen Lei. 
+Chang Yu, Xiangyu Zhu, **Xiaomei Zhang**, Zhaoxiang Zhang, Zhen Lei.      
 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2023
 
 ___
