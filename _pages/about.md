@@ -44,20 +44,9 @@ IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2023
 
 ___
 
-<div class="row">
-  <div class="column left">
-    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-pami-zhu.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Face Forgery Detection by 3D Decomposition and Composition Search,</strong><br/>
-      <strong>Xiangyu Zhu</strong>, Hongyan Fei, Bin Zhang, Tianshuo Zhang, Xiaoyu Zhang, Stan Z. Li, Zhen Lei<br/>
-      IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>T-PAMI</strong>), 2023.<br/>
-      [<a href="https://ieeexplore.ieee.org/abstract/document/10005010/">PDF</a>]
-    </p>
-  </div>
-</div>
+* **Grammar-Induced Wavelet Network for Human Parsing** [[paper]](https://ieeexplore.ieee.org/document/9795988)
+**Xiaomei Zhang**, Yingying Chen, Ming Tang, Zhen Lei, Jinqiao Wang.
+IEEE TRANSACTIONS ON IMAGE PROCESSING, TIP 2022
 
 ___
 
