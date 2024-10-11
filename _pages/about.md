@@ -44,6 +44,20 @@ IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2024
 
 ___
 
+
+* **Graphics Capsule: Learning Hierarchical 3D Face Representations from 2D Images**[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Graphics_Capsule_Learning_Hierarchical_3D_Face_Representations_From_2D_Images_CVPR_2023_paper.pdf)    
+Chang Yu, Xiangyu Zhu, **Xiaomei Zhang**, Zhaoxiang Zhang, Zhen Lei. 
+IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2023
+
+___
+
+
+* **HP-Capsule: Unsupervised Face Part Discovery by Hierarchical Parsing Capsule Network**[[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_HP-Capsule_Unsupervised_Face_Part_Discovery_by_Hierarchical_Parsing_Capsule_Network_CVPR_2022_paper.pdf)    
+Chang Yu, Xiangyu Zhu, **Xiaomei Zhang**, Zhaoxiang Zhang, Zhen Lei. 
+IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2022
+
+___
+
 * **High-Fidelity Clothed Avatar Reconstruction from a Single Image**[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liao_High-Fidelity_Clothed_Avatar_Reconstruction_From_a_Single_Image_CVPR_2023_paper.pdf)[[code]](https://github.com/TingtingLiao/CAR)   
 Tingting Liao, **Xiaomei Zhang (equal contribution)**, Yuliang Xiu, Hongwei Yi, Xudong Liu, Guo-Jun Qi, Yong Zhang, Xuan Wang, Xiangyu Zhu, Zhen Lei.
 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2023
@@ -64,21 +78,23 @@ ___
 
 
 * **Part-aware Context Network for Human Parsing**[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Part-Aware_Context_Network_for_Human_Parsing_CVPR_2020_paper.pdf)    
-**Xiaomei Zhang**, Yingying Chen, Bingke Zhu Jinqiao Wang Ming Tang  
+**Xiaomei Zhang**, Yingying Chen, Bingke Zhu Jinqiao Wang Ming Tang.  
 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2020
 
 ___
 
 * **Blended Grammar Network for Human Parsing**[[paper]](https://link.springer.com/chapter/10.1007/978-3-030-58586-0_12)    
-**Xiaomei Zhang**, Yingying Chen, Bingke Zhu Jinqiao Wang Ming Tang  
+**Xiaomei Zhang**, Yingying Chen, Bingke Zhu Jinqiao Wang Ming Tang.  
 European Conference on Computer Vision, ECCV 2020
 
 ___
 
 
 * **Semantic-spatial fusion network for human parsing**[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231220304835)    
-**Xiaomei Zhang**, Yingying Chen, Bingke Zhu Jinqiao Wang Ming Tang  
+**Xiaomei Zhang**, Yingying Chen, Bingke Zhu Jinqiao Wang Ming Tang.  
 Neurocomputing 2020
 
 ___
+
+
 
