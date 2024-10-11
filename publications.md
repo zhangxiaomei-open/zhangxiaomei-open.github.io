@@ -13,6 +13,7 @@ ___
 * **SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis** [[paper]](https://arxiv.org/pdf/2311.17590.pdf)[[code]](https://github.com/ZiqiaoPeng/SyncTalk)  
 Ziqiao Peng, Wentao Hu, Yue Shi, Xiangyu Zhu, **Xiaomei Zhang**, Hao Zhao, Jun He, Hongyan Liu, Zhaoxin Fan.  
 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2024
+
 ___
 
 
@@ -20,38 +21,16 @@ ___
 =====
 ___
 
-<div class="row">
-  <div class="column left">
-    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-pami-zhu.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Face Forgery Detection by 3D Decomposition and Composition Search,</strong><br/>
-      <strong>Xiangyu Zhu</strong>, Hongyan Fei, Bin Zhang, Tianshuo Zhang, Xiaoyu Zhang, Stan Z. Li, Zhen Lei<br/>
-      IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>T-PAMI</strong>), 2023.<br/>
-      [<a href="https://ieeexplore.ieee.org/abstract/document/10005010/">PDF</a>]
-    </p>
-  </div>
-</div>
+* **High-Fidelity Clothed Avatar Reconstruction from a Single Image**[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liao_High-Fidelity_Clothed_Avatar_Reconstruction_From_a_Single_Image_CVPR_2023_paper.pdf)[[code]](https://github.com/TingtingLiao/CAR)   
+Tingting Liao, **Xiaomei Zhang (equal contribution)**, Yuliang Xiu, Hongwei Yi, Xudong Liu, Guo-Jun Qi, Yong Zhang, Xuan Wang, Xiangyu Zhu, Zhen Lei.
+IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2023
 
 ___
 
 
-<div class="row">
-  <div class="column left">
-    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-tbiom-zhu.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>MVP-Human Dataset for 3D Clothed Human Avatar Reconstruction from Multiple Frames,</strong><br/>
-      <strong>Xiangyu Zhu</strong>, Tingting Liao, Xiaomei Zhang, Jiangjing Lyu, Zhiwen Chen, Yunfeng Wang, Kan Guo, Qiong Cao, Stan Z. Li, Zhen Lei<br/>
-      IEEE Transactions on Biometrics, Behavior, and Identity Science (<strong>TBIOM</strong>), 2023.<br/>
-      [<a href="https://arxiv.org/abs/2204.11184">PDF</a>][<a href="https://github.com/TingtingLiao/MVPHuman">Github</a>]
-    </p>
-  </div>
-</div>
+* **Graphics Capsule: Learning Hierarchical 3D Face Representations from 2D Images**[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Graphics_Capsule_Learning_Hierarchical_3D_Face_Representations_From_2D_Images_CVPR_2023_paper.pdf)    
+Chang Yu, Xiangyu Zhu, **Xiaomei Zhang**, Zhaoxiang Zhang, Zhen Lei. 
+IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2023
 
 ___
 
