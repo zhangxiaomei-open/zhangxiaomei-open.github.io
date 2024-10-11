@@ -44,22 +44,14 @@ IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2024
 
 ___
 
+* **High-Fidelity Clothed Avatar Reconstruction from a Single Image**[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liao_High-Fidelity_Clothed_Avatar_Reconstruction_From_a_Single_Image_CVPR_2023_paper.pdf)[[code]](https://github.com/TingtingLiao/CAR)   
+Tingting Liao, **Xiaomei Zhang (equal contribution)**, Yuliang Xiu, Hongwei Yi, Xudong Liu, Guo-Jun Qi, Yong Zhang, Xuan Wang, Xiangyu Zhu, Zhen Lei.
+IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2023
+___
+
 
 * **Graphics Capsule: Learning Hierarchical 3D Face Representations from 2D Images**[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Graphics_Capsule_Learning_Hierarchical_3D_Face_Representations_From_2D_Images_CVPR_2023_paper.pdf)    
 Chang Yu, Xiangyu Zhu, **Xiaomei Zhang**, Zhaoxiang Zhang, Zhen Lei. 
-IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2023
-
-___
-
-
-* **HP-Capsule: Unsupervised Face Part Discovery by Hierarchical Parsing Capsule Network**[[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_HP-Capsule_Unsupervised_Face_Part_Discovery_by_Hierarchical_Parsing_Capsule_Network_CVPR_2022_paper.pdf)    
-Chang Yu, Xiangyu Zhu, **Xiaomei Zhang**, Zhaoxiang Zhang, Zhen Lei. 
-IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2022
-
-___
-
-* **High-Fidelity Clothed Avatar Reconstruction from a Single Image**[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liao_High-Fidelity_Clothed_Avatar_Reconstruction_From_a_Single_Image_CVPR_2023_paper.pdf)[[code]](https://github.com/TingtingLiao/CAR)   
-Tingting Liao, **Xiaomei Zhang (equal contribution)**, Yuliang Xiu, Hongwei Yi, Xudong Liu, Guo-Jun Qi, Yong Zhang, Xuan Wang, Xiangyu Zhu, Zhen Lei.
 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2023
 
 ___
@@ -73,6 +65,13 @@ ___
 * **Human Parsing with Part-aware Relation Modeling**[[paper]](https://ieeexplore.ieee.org/document/9706337)    
 **Xiaomei Zhang**, Yingying Chen, Ming Tang, Jinqiao Wang, Xiangyu Zhu, Zhen Lei.  
 IEEE Transactions on Multimedia, TMM 2022
+
+___
+
+
+* **HP-Capsule: Unsupervised Face Part Discovery by Hierarchical Parsing Capsule Network**[[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_HP-Capsule_Unsupervised_Face_Part_Discovery_by_Hierarchical_Parsing_Capsule_Network_CVPR_2022_paper.pdf)    
+Chang Yu, Xiangyu Zhu, **Xiaomei Zhang**, Zhaoxiang Zhang, Zhen Lei. 
+IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2022
 
 ___
 
