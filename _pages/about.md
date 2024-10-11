@@ -44,33 +44,15 @@ IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2023
 
 ___
 
-* **Grammar-Induced Wavelet Network for Human Parsing**[[paper]](https://ieeexplore.ieee.org/document/9795988) 
-**Xiaomei Zhang**, Yingying Chen, Ming Tang, Zhen Lei, Jinqiao Wang. 
-IEEE TRANSACTIONS ON IMAGE PROCESSING, TIP 2022
-
-___
-
-
 * **Grammar-Induced Wavelet Network for Human Parsing**[[paper]](https://ieeexplore.ieee.org/document/9795988)    
 **Xiaomei Zhang**, Yingying Chen, Ming Tang, Zhen Lei, Jinqiao Wang.  
 IEEE TRANSACTIONS ON IMAGE PROCESSING, TIP 2022
 ___
 
 
-<div class="row">
-  <div class="column left">
-    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-tbiom-zhu.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>MVP-Human Dataset for 3D Clothed Human Avatar Reconstruction from Multiple Frames,</strong><br/>
-      <strong>Xiangyu Zhu</strong>, Tingting Liao, Xiaomei Zhang, Jiangjing Lyu, Zhiwen Chen, Yunfeng Wang, Kan Guo, Qiong Cao, Stan Z. Li, Zhen Lei<br/>
-      IEEE Transactions on Biometrics, Behavior, and Identity Science (<strong>TBIOM</strong>), 2023.<br/>
-      [<a href="https://arxiv.org/abs/2204.11184">PDF</a>][<a href="https://github.com/TingtingLiao/MVPHuman">Github</a>]
-    </p>
-  </div>
-</div>
+* **Human Parsing with Part-aware Relation Modeling**[[paper]](https://ieeexplore.ieee.org/document/9706337)    
+**Xiaomei Zhang**, Yingying Chen, Ming Tang, Jinqiao Wang, Xiangyu Zhu, Zhen Lei.  
+IEEE Transactions on Multimedia, TMM 2022
 
 ___
 
