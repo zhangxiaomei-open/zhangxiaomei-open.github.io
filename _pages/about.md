@@ -54,7 +54,7 @@ ___
 **Xiaomei Zhang**, Yingying Chen, Ming Tang, Jinqiao Wang, Xiangyu Zhu, Zhen Lei.  
 IEEE Transactions on Multimedia, TMM 2022
 
-__
+___
 
 
 * **Part-aware Context Network for Human Parsing**[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Part-Aware_Context_Network_for_Human_Parsing_CVPR_2020_paper.pdf)    
