@@ -38,6 +38,12 @@ Selected Publications
 
 ___
 
+* **SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis** [[paper]](https://arxiv.org/pdf/2311.17590.pdf)[[code]](https://github.com/ZiqiaoPeng/SyncTalk)  
+Ziqiao Peng, Wentao Hu, Yue Shi, Xiangyu Zhu, **Xiaomei Zhang**, Hao Zhao, Jun He, Hongyan Liu, Zhaoxin Fan.  
+IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2024
+
+___
+
 * **High-Fidelity Clothed Avatar Reconstruction from a Single Image**[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liao_High-Fidelity_Clothed_Avatar_Reconstruction_From_a_Single_Image_CVPR_2023_paper.pdf)[[code]](https://github.com/TingtingLiao/CAR)   
 Tingting Liao, **Xiaomei Zhang (equal contribution)**, Yuliang Xiu, Hongwei Yi, Xudong Liu, Guo-Jun Qi, Yong Zhang, Xuan Wang, Xiangyu Zhu, Zhen Lei.
 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2023
@@ -63,13 +69,16 @@ IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2020
 
 ___
 
-
-
+* **Blended Grammar Network for Human Parsing**[[paper]](https://link.springer.com/chapter/10.1007/978-3-030-58586-0_12)    
+**Xiaomei Zhang**, Yingying Chen, Bingke Zhu Jinqiao Wang Ming Tang  
+European Conference on Computer Vision, ECCV 2020
 
 ___
 
 
-
+* **Semantic-spatial fusion network for human parsing**[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231220304835)    
+**Xiaomei Zhang**, Yingying Chen, Bingke Zhu Jinqiao Wang Ming Tang  
+Neurocomputing 2020
 
 ___
 
