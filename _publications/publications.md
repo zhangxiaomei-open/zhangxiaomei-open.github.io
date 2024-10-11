@@ -1,70 +1,8 @@
-2021
+2024
 ======
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/c1.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Face Forgery Detection by 3D Decomposition,</strong><br/>
-      Xiangyu Zhu, Hao Wang, Hongyan Fei, Zhen Lei, Stan Z. Li.<br/>
-      IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021.<br/>
-      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/CVPR21face.pdf">PDF</a>]
-    </p>
-  </div>
-</div>
-
-___
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/j1.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Decomposed Meta Batch Normalization for Fast Domain Adaptation in Face Recognition,</strong><br/>
-      Jianzhu Guo, <u>Xiangyu Zhu</u>, Zhen Lei, Stan Z Li. (co-first author)<br/>
-      IEEE Transactions on Information Forensics and Security (TIFS), 2021.<br/>
-      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/TIFS21decomposed.pdf">PDF</a>]
-    </p>
-  </div>
-</div>
-
-___
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/c2.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Multi-initialization Optimization Network for Accurate 3D Human Pose and Shape Estimation,</strong><br/>
-      Zhiwei Liu*, Xiangyu Zhu*, Ming Tang, Zhen Lei, Jinqiao Wang. (co-first author)<br/>
-      ACM International Conference on Multimedia (MM), 2021.<br/>
-      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/MM21multi.pdf">PDF</a>]
-    </p>
-  </div>
-</div>
-
-___
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/c3.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>3D Context-Aware PIFu for Clothed Human Reconstruction,</strong><br/>
-      Tingting Liao, Xiangyu Zhu, Zhen Lei, and Stan Z. Li. (co-first author) <br/>
-      Chinese Conference on Biometrics Recognition (CCBR), 2021.<br/>
-      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/CCBR21face.pdf">PDF</a>]
-    </p>
-  </div>
-</div>
+* **SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis** [[paper]](https://arxiv.org/pdf/2311.17590.pdf)[[code]](https://github.com/ZiqiaoPeng/SyncTalk)  
+Ziqiao Peng, Wentao Hu, Yue Shi, Xiangyu Zhu, **Xiaomei Zhang**, Hao Zhao, Jun He, Hongyan Liu, Zhaoxin Fan.  
+IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2024
 
 
 2020
