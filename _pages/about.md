@@ -38,13 +38,13 @@ Selected Publications
 
 ___
 
-* **High-Fidelity Clothed Avatar Reconstruction from a Single Image** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liao_High-Fidelity_Clothed_Avatar_Reconstruction_From_a_Single_Image_CVPR_2023_paper.pdf)[[code]](https://github.com/TingtingLiao/CAR)   
+* **High-Fidelity Clothed Avatar Reconstruction from a Single Image**[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liao_High-Fidelity_Clothed_Avatar_Reconstruction_From_a_Single_Image_CVPR_2023_paper.pdf)[[code]](https://github.com/TingtingLiao/CAR)   
 Tingting Liao, **Xiaomei Zhang (equal contribution)**, Yuliang Xiu, Hongwei Yi, Xudong Liu, Guo-Jun Qi, Yong Zhang, Xuan Wang, Xiangyu Zhu, Zhen Lei.
 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2023
 
 ___
 
-* **Grammar-Induced Wavelet Network for Human Parsing** [[paper]](https://ieeexplore.ieee.org/document/9795988)
+* **Grammar-Induced Wavelet Network for Human Parsing**[[paper]](https://ieeexplore.ieee.org/document/9795988)
 **Xiaomei Zhang**, Yingying Chen, Ming Tang, Zhen Lei, Jinqiao Wang.
 IEEE TRANSACTIONS ON IMAGE PROCESSING, TIP 2022
 
