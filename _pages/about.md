@@ -10,31 +10,7 @@ redirect_from:
 
 Short Bio
 ======
-I am now an Associate Professor at Institute of Automation Chinese Academic of Sciences (CASIA), working with [Prof. Zhen Lei](http://www.cbsr.ia.ac.cn/users/zlei/). My research interest includes machine learning and pattern recognition, especially ****, **face recognition**, and **Explainable AI**. I am awarded the “Young Biometrics Investigator Award **(YBIA)**” by the International Association of Pattern Recognition (IAPR) in 2023 (awarded biennially to one scholar under 40 worldwide). I won the Champion of the Face Recognition Challenges at WACV 2024 and ICCV 2017, CCBR Best Student Paper Award (2017), Best Poster Paper Award (2022), and Best Paper 1st Runner Up (2023). I have published more 80 papers with total citation in Google Scholar being 8700. I am an IEEE senior member and serve as the Associate Editor of T-IFS and area chair for IJCB and ACM MM. 
-
-
-
-中国科学院自动化研究所副研究员，从事生物特征识别和可解释AI相关基础理论研究与应用。国际模式识别协会（IAPR）生物特征青年学者奖（YBIA）获得者（两年一次，每次从全球范围内评选40岁以下学者一名），中国图象图形学学会青托俱乐部副主席。共发表论文80余篇，其中作为第一作者发表T-PAMI论文 3篇，IJCV论文1篇，两次获得CVPR口头报告，发表文章的Google Scholar总引用次数为9200余次。获得三次国际竞赛冠军以及四项最佳论文及提名奖。授权国家发明专利10项。入选IEEE Senior Member，百度学术全球华人AI青年学者榜单（全球25人），受到腾讯犀牛鸟基金支持。获2021中国电子学会科技进步二等奖、中国图象图形学学会优秀博士论文提名奖，任CCF:A类期刊T-IFS AE。提出的人脸三维建模方法在被PyTorch官方Twitter报道，单篇论文（一作）引用次数1300余次，开源代码在Github上收获6000余星。
-
-<br>
-
-News!
-======
-* Apr. 2024: One paper on 6DoF Face Pose Estimation is accepted by IEEE Transactions on Multimedia (TMM). 
-* Mar. 2024: Our 3DDFAv3 Paper “3D Face Reconstruction with the Geometric Guidance of Facial Part Segmentation” is accepted by CVPR 2024 (Highlight). 
-* Mar. 2024: We won the WACV 2024 Face Recognition Challenge in the Era of Synthetic Data (FRCSyn). Congrats to all collaborators!
-* Dec. 2023: We won the Best Paper 1st Runner Up in CCBR 2023. Congrats to YangTe!
-* Oct. 2023: I am awarded the IAPR Young Biometrics Investigator Award (**YBIA**). Thanks IAPR TC4 committee [<a href="https://iapr-tc4.org/awards/">Link</a>]. 
-* Mar. 2023: My paper (first author) is accepted by **TBIOM**, and one paper is accepted by **TIP**. 
-* Mar. 2023: Four papers are accepted by **CVPR**. Congrats to all collaborators!
-* Feb. 2023: We won the Best Poster Paper in CCBR 2022. Congrats to Tianshuo!
-* Feb. 2023: My paper (first author) is accepted by **T-PAMI**.
-* May. 2022: I am selected by Baidu Xueshu 2022 Global Top Chinese Young Scholars in AI. （<a href="https://xueshu.baidu.com/usercenter/index/aischolar2022">百度学术2022年全球华人AI青年学者榜单</a>）
-* Apr. 2022: I am supported by Tencent AI Lab Rhino-Bird Focused Research Program. （腾讯AI Lab犀牛鸟专项研究计划）
-* Apr. 2022: My paper (first author) is accepted by **T-PAMI**.
-* Mar. 2022: One paper working on **Capsule Network** accepted by CVPR 2022.
-* Jan. 2022: One paper accepted by **ICLR** 2022.
-* Jan. 2022: Obtain Second Class Prize of the Science and Technology Award, Chinese Institute of Electronics. （中国电子学会科学技术二等奖）
+I am now an Associate Professor at Institute of Automation Chinese Academic of Sciences (CASIA), working with [Prof. Zhen Lei](http://www.cbsr.ia.ac.cn/users/zlei/), IEEE/IAPR Fellow. My research interest includes machine learning and pattern recognition, especially **3D human/face reconstruction and generation**, **human parsing**, and **talking head**. The first author's papers include top journals such as TIP and TMM, as well as top international conferences such as CVPR and ECCV. I won the second place of the Dark Complexion Portrait Segmentation at CVPR 2020 and the third place of the Multi-Person Human Parsing at CVPR 2019. I chaired the National Natural Science Foundation (Youth) and participated in the National NThe first author's papers include top journals such as TIP and TMM, as well as top international conferences such as CVPR and ECCV.atural Science Foundation (superficial cooperation)
 
 <br>
 
