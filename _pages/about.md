@@ -47,13 +47,15 @@ ___
 * **Grammar-Induced Wavelet Network for Human Parsing**[[paper]](https://ieeexplore.ieee.org/document/9795988)    
 **Xiaomei Zhang**, Yingying Chen, Ming Tang, Zhen Lei, Jinqiao Wang.  
 IEEE TRANSACTIONS ON IMAGE PROCESSING, TIP 2022
+
 ___
 
 * **Human Parsing with Part-aware Relation Modeling**[[paper]](https://ieeexplore.ieee.org/document/9706337)    
 **Xiaomei Zhang**, Yingying Chen, Ming Tang, Jinqiao Wang, Xiangyu Zhu, Zhen Lei.  
 IEEE Transactions on Multimedia, TMM 2022
-_
+
 __
+
 
 * **Part-aware Context Network for Human Parsing**[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Part-Aware_Context_Network_for_Human_Parsing_CVPR_2020_paper.pdf)    
 **Xiaomei Zhang**, Yingying Chen, Bingke Zhu Jinqiao Wang Ming Tang  
