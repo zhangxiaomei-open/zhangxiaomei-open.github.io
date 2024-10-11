@@ -10,78 +10,10 @@ author_profile: true
 
 ___
 
-<div class="row">
-  <div class="column left">
-    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2024-cvpr-wang.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>3D Face Reconstruction with the Geometric Guidance of Facial Part Segmentation,</strong><br/>
-      Zidu Wang, <strong>Xiangyu Zhu (corresponding author)</strong>, Tianshuo Zhang, Baiqin Wang and Zhen Lei<br/>
-      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), Highlight 2024.<br/>
-      [<a href="https://arxiv.org/abs/2312.00311">PDF</a>][<a href="https://github.com/wang-zidu/3DDFA-V3">Github</a>]
-    </p>
-  </div>
-</div>
+* **SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis** [[paper]](https://arxiv.org/pdf/2311.17590.pdf)[[code]](https://github.com/ZiqiaoPeng/SyncTalk)  
+Ziqiao Peng, Wentao Hu, Yue Shi, Xiangyu Zhu, **Xiaomei Zhang**, Hao Zhao, Jun He, Hongyan Liu, Zhaoxin Fan.  
+IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2024
 ___
-
-
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2024-cvpr-peng.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis,</strong><br/>
-      Ziqiao Peng, Wentao Hu, Yue Shi, <strong>Xiangyu Zhu</strong>, Xiaomei Zhang, Hao Zhao, Jun He, Hongyan Liu, Zhaoxin Fan<br/>
-      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024.<br/>
-      [<a href="https://arxiv.org/abs/2311.17590">PDF</a>][<a href="https://github.com/ZiqiaoPeng/SyncTalk">Github</a>]
-    </p>
-  </div>
-</div>
-___
-
-
-
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2024-tmm-xu.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Multi-Level Pixel-Wise Correspondence Learning for 6DoF Face Pose Estimation,</strong><br/>
-      Miao Xu, <strong>Xiangyu Zhu (corresponding author)</strong>, Yueying Kao, Zhiwen Chen, Jiangjing Lyu, Zhen Lei<br/>
-      IEEE Transactions on Multimedia (<strong>TMM</strong>), 2024.<br/>
-      [<a href="https://ieeexplore.ieee.org/abstract/document/10506678/">Paper</a>]
-    </p>
-  </div>
-</div>
-___
-
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2024-wacv-zhao.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>FRCSyn Challenge at WACV 2024: Face Recognition Challenge in the Era of Synthetic Data,</strong><br/>
-      <strong>Winner on the Main Track and the Balacned Track,</strong><br/>
-      Weisong Zhao, <strong>Xiangyu Zhu</strong>, Zheyu Yan, Xiao-Yu Zhang, Jinlin Wu, Zhen Lei<br/>
-      IEEE/CVF Winter Conference on Applications of Computer Vision Workshop (<strong>WACV</strong>), 2024.<br/>
-      [<a href="https://openaccess.thecvf.com/content/WACV2024W/FRCSyn/papers/Melzi_FRCSyn_Challenge_at_WACV_2024_Face_Recognition_Challenge_in_the_WACVW_2024_paper.pdf/">PDF</a>]
-    </p>
-  </div>
-</div>
-
-___
-
 
 
 2023
