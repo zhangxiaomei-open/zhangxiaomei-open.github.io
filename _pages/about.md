@@ -45,6 +45,7 @@ IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2023
 ___
 
 * **Grammar-Induced Wavelet Network for Human Parsing**[[paper]](https://ieeexplore.ieee.org/document/9795988)
+* 
 **Xiaomei Zhang**, Yingying Chen, Ming Tang, Zhen Lei, Jinqiao Wang.
 IEEE TRANSACTIONS ON IMAGE PROCESSING, TIP 2022
 
